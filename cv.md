@@ -15,34 +15,22 @@ I am a highly motivated and detail-oriented individual with a strong passion for
 - **Methodologies:** Agile, Scrum (Basic understanding)
 
 ## Code Example
-Here is a simple C++ function that checks if a number is prime:
+Here is a simple C++ function:
 
 #include <iostream>
-#include <cmath>
-using namespace std;
-
-bool isPrime(int n) {
-    if (n <= 1) return false;
-    if (n <= 3) return true;
-    if (n % 2 == 0 || n % 3 == 0) return false;
-
-    for (int i = 5; i * i <= n; i += 6) {
-        if (n % i == 0 || n % (i + 2) == 0)
-            return false;
-    }
-    return true;
-}
+#include <vector>
 
 int main() {
-    int number = 29;
-    if (isPrime(number))
-        cout << number << " is a prime number." << std::endl;
-    else
-        cout << number << " is not a prime number." << std::endl;
-
+    std::vector<int> numbers = {1, 2, 3, 4, 5};
+    int sum = 0;
+    
+    for (int num : numbers) {
+        sum += num;
+    }
+    
+    std::cout << "Sum: " << sum << std::endl;
     return 0;
 }
-\```
 
 ## Experience
 *(While I don't have formal work experience yet, here is a project I've built to practice my skills)*

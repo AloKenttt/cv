@@ -18,17 +18,14 @@ I am a highly motivated and detail-oriented individual with a strong passion for
 Here is a simple C++ function:
 
 #include <iostream>
-#include <vector>
+using namespace std;
 
 int main() {
-    std::vector<int> numbers = {1, 2, 3, 4, 5};
-    int sum = 0;
+    int a = 5;
+    int b = 10;
+    int sum = a + b;
     
-    for (int num : numbers) {
-        sum += num;
-    }
-    
-    std::cout << "Sum: " << sum << std::endl;
+    cout << "Sum of " << a << " and " << b << " is " << sum << endl;
     return 0;
 }
 

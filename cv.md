@@ -43,3 +43,18 @@ int main() {
     return 0;
 }
 \```
+
+## Experience
+*(While I don't have formal work experience yet, here is a project I've built to practice my skills)*
+
+**CV Project (this page)**
+- **Description:** A personal online CV built with Markdown and deployed on GitHub Pages. This project showcases my skills in version control with Git and basic web deployment.
+- **Source code:** [https://github.com/AloKenttt/cv/tree/markdown-cv](https://github.com/AloKenttt/cv/tree/markdown-cv)
+
+## Education
+- **University:** Vitebsk State University named after P.M. Masherov (VSU)
+- **Specialty:** Information Resource Management (IRM)
+
+## English Level
+- **Level:** A1-A2 (Elementary)
+- I studied English at school and continue to improve it by reading technical documentation and learning new vocabulary.

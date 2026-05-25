@@ -4,7 +4,7 @@
 - **Phone:** +375 (33) 900-25-13
 - **E-mail:** nikita.sakovich.ggvp@gmail.com
 - **GitHub:** (https://github.com/AloKenttt)
-
+![My Photo](https://raw.githubusercontent.com/AloKenttt/cv/markdown-cv/photo.jpg)
 ## About Me
 I am a highly motivated and detail-oriented individual with a strong passion for web development. My goal is to start a career as a Junior Frontend Developer and contribute to creating user-friendly applications. I have good organizational skills, I am eager to learn new technologies, and I am a fast learner. Even without commercial experience, I am dedicated to improving my coding skills every day and ready to face challenging tasks.
 
